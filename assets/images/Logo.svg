@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="99.749" viewBox="0 0 147 99.749">
+  <g id="Logo" transform="translate(-95.5 -18.671)">
+    <g id="noun_Heart_3244509" transform="translate(132.833 18.671)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+        <path id="Path_1" data-name="Path 1" d="M19.785,4.282A17.782,17.782,0,0,0,7.2,34.645L35.936,63.378a2.553,2.553,0,0,0,3.61,0L68.284,34.645A17.792,17.792,0,1,0,43.122,9.483l-5.38,5.38-5.375-5.38a17.735,17.735,0,0,0-12.581-5.2Z" transform="translate(-2 -4.28)" fill="#2a2ac0"/>
+        <path id="Path_401" data-name="Path 401" d="M-.421,331.173h5.7l5.793-12.24,8.289,21.609,6.095-14.706,3.52,5.337h4.286" transform="translate(18.369 -300.456)" fill="none" stroke="#ecf1fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+    <text id="Medical_App" data-name="Medical App" transform="translate(95.5 90.42)" fill="#2a2ac0" font-size="20" font-family="Lato-Black, Lato" font-weight="800"><tspan x="17.252" y="20">Medical</tspan><tspan y="20" xml:space="preserve" font-family="Lato-Light, Lato" font-weight="300"> App</tspan></text>
+  </g>
+</svg>
