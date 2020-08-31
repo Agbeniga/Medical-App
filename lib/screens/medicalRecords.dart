@@ -73,15 +73,22 @@ class _MedicalRecordsState extends State<MedicalRecords>
                 ),
               ),
             ),
-            Padding(
-              padding: EdgeInsets.only(bottom: 10.0),
-              child: Form(
+            Form(
+              child: Container(
+                // width: 300,
+                padding: EdgeInsets.symmetric(horizontal: 20.0),
+                margin: EdgeInsets.symmetric(horizontal: 30.0, vertical: 30.0),
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(10.0),
+                  color: Colors.white,
+                ),
                 child: TextFormField(
                   decoration: InputDecoration(
-                      hintText: 'Search',
-                      suffixIcon: Icon(
-                        Icons.search,
-                      )),
+                    suffixIcon: Icon(Icons.search, color: Colors.grey),
+                    hintText: 'Search',
+                    border: InputBorder.none,
+                  ),
+                  keyboardType: TextInputType.phone,
                 ),
               ),
             ),
